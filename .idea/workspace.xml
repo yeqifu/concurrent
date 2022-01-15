@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52ec7f47-c026-420e-b7ba-0827f87a4812" name="Default Changelist" comment="" />
+    <list default="true" id="52ec7f47-c026-420e-b7ba-0827f87a4812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/YQF.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yeqifu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/src/main/java/com/yeqifu/test/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/src/main/java/com/yeqifu/test/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/src/main/java/com/yeqifu/test/RunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/src/main/java/com/yeqifu/test/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/FutureTaskTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/FutureTaskTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/LambdaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/RunnableTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/RunnableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/ThreadTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_concurrent/target/classes/com/yeqifu/test/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/java_concurrent/target/" />
@@ -112,8 +134,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1167" />
-    <option name="y" value="63" />
+    <option name="x" value="340" />
+    <option name="y" value="106" />
     <option name="width" value="1940" />
     <option name="height" value="1060" />
   </component>
@@ -197,7 +219,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642254052491" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642254772700" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/ionic/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -289,15 +311,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642249117198</updated>
-      <workItem from="1642249124696" duration="4461000" />
+      <workItem from="1642249124696" duration="5032000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4461000" />
+    <option name="totallyTimeSpent" value="5032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="934" y="51" width="1552" height="848" extended-state="0" />
+    <frame x="1046" y="58" width="1552" height="848" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
