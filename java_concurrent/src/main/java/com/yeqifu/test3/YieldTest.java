@@ -8,7 +8,7 @@ import lombok.extern.slf4j.Slf4j;
  * @Date: 2022/1/21 12:17
  */
 @Slf4j
-public class yieldTest {
+public class YieldTest {
 
     public static void main(String[] args) {
         Runnable taskOne = () -> {
