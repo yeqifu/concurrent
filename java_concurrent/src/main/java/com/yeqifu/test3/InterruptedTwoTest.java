@@ -25,5 +25,6 @@ public class InterruptedTwoTest {
         log.debug("interrupt");
         t1.interrupt();
 
+
     }
 }
