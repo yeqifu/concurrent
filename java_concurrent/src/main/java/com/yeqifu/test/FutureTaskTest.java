@@ -7,6 +7,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 /**
+ * 测试
  * @Author: 落亦-
  * @Date: 2022/1/15 21:11
  */
@@ -23,7 +24,7 @@ public class FutureTaskTest {
             }
         });
 
-        Thread t1 = new Thread(futureTask,"t1");
+        Thread t1 = new Thread(futureTask, "t1");
         t1.start();
 
         log.debug("{}", futureTask.get());
