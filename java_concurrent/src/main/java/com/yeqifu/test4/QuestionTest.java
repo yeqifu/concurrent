@@ -34,6 +34,7 @@ public class QuestionTest {
 
         t1.start();
         t2.start();
+        // 等待两个线程运行结束
         t1.join();
         t2.join();
         log.debug("{}",count);
