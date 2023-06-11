@@ -1,2 +1,56 @@
-/target/
+## COMMONS ###
+*.class
+**/target
+**/webapp/userfiles
+**/WEB-INF/classes
+**/logs/
+
+# IntelliJ project files
+.idea
+*.iml
+
+## *.properties
+out
+gen
+## **/dev/
+**/target
+
+
+### IDEA FILE ###
 .idea/
+/.idea/
+/idea/*
+out/
+*.ipr
+*.iml
+*.iws
+.idea/*
+
+### PACKAGE FILES ###
+*.war
+*.ear
+#*.jar
+
+### SYSTEM FILES ###
+.DS_Store
+Thumbs.db
+
+### Other FILES ###
+.svn
+.recommenders
+RemoteSystemsTempFiles
+~$*
+*.swp
+files/*
+tempfile/*
+*.md
+/mvnw
+/mvnw.*
+/.mvn/*
+
+### TEMP FILES ###
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
